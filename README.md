@@ -118,3 +118,17 @@ Oh My Zsh is a community-driven framework for managing zsh configuration.
 ### Installation
 
 https://github.com/robbyrussell/oh-my-zsh
+
+## Shutter
+
+A screen capture tool for Linux.
+
+### Installation
+
+    sudo apt install shutter
+
+### Commands
+
+`shutter --full`: Capture a selected area.
+
+`shutter --full`: Capture the entire screen.
